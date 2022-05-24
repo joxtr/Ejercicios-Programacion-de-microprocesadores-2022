@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P_00_Presentacion.asm" />
+    <MASM Include="P_03_Multiplicar_AL_Cubo.asm" />
+    <MASM Include="P_01_DeterminarPuntoMedio.asm" />
+    <MASM Include="P_06_Calcular_ICM.asm" />
+    <MASM Include="P_07_CalcularDistanciaRecorrida.asm" />
+    <MASM Include="P_09_AreaDeUnRectangulo.asm" />
+    <MASM Include="P_14_AreaPoligonoRegular.asm" />
+    <MASM Include="P_15_DeterminanteMatriz.asm" />
+    <MASM Include="P_18_CalcularPromedio.asm" />
+    <MASM Include="P_20_SumaDe_N_Numeros.asm" />
+    <MASM Include="P_13_Unidad_Decenas_Centenas.asm" />
+    <MASM Include="P_22_Compañia_Autobuses.asm" />
+    <MASM Include="P_23_Calcular_Edad.asm" />
+    <MASM Include="P_21_Modista_Prendas_de_Vestir.asm" />
+    <MASM Include="P_16_Numeros_Fibonacci.asm" />
+    <MASM Include="P_25_Restaurante_Hamburguesas.asm" />
+  </ItemGroup>
+</Project>
